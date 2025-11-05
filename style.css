@@ -41,7 +41,7 @@ body {
 }
 
 .poster-image-boxed {
-    max-width: 100%;
+    width: 100%;
     height: auto;
     display: block;
 }
@@ -403,6 +403,7 @@ body{
         width: 100%;
     }
 }
+
 
 
 
