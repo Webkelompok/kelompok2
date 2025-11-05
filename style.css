@@ -38,6 +38,7 @@ body {
     padding: 0px 50px;
     margin: 0;
     background-color: white;
+    box-sizing: border-box;
 }
 
 .main-content {
@@ -397,6 +398,7 @@ body{
         width: 100%;
     }
 }
+
 
 
 
